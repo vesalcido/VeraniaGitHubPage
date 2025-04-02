@@ -29,6 +29,6 @@ Favorite Shows:
 + Girl Meets World
 
 ToDo List for this class:
-[x] Do financial aid survey
+- [x] Do financial aid survey
 - [ ] Go to Lab
 - [ ] Finish Lab 1 :tada:
