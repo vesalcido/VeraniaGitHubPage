@@ -14,7 +14,7 @@ git commit -m "Awesome code being shown on my user page"
 
 [Google Baseball Game Link](https://www.google.com/logos/2019/july4th19/r6/july4th19.html?hl=en)
 
-Forgot what my name was? Link to the title section: [Title Section Link Text](#Verania's-User-Page).
+Forgot what my name was? Link to the title section: [# Verania's User Page](#Verania's-User-Page).
 
 Want to know more about some projects of mine? Check out some of my project descriptions: [project.md link](projects.md)
 
@@ -31,4 +31,4 @@ Favorite Shows:
 ToDo List for this class:
 - [x] Do financial aid survey
 - [ ] Go to Lab
-- [ ] Finish Lab 1 :tada:
+- [ ] Finish Lab 1
